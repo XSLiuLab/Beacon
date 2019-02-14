@@ -39,7 +39,6 @@ Python:
 R:
 
 * [《R for Data Science》](http://r4ds.had.co.nz/)（不推荐看中文，翻译的不好）
-
 * 《R实战》第二版
 * 《R语言编程艺术》
 
@@ -52,7 +51,7 @@ R:
 * [癌症研究](Cancer-research/README.md) - 癌症研究知识、分析流程汇总
 * [awesome列表](Awesome-list/README.md) - awesome以及其他的资源合集
 * [线上图书](Online-books/README.md) - 图书学习汇总与推荐
-* [填坑日记](Diary/README.md) - Liulab分析工作的填坑日常
+* [填坑笔记](Diary/README.md) - Liulab分析工作的填坑日常
 
 
 ## 云资源
@@ -70,7 +69,29 @@ R:
 
 ## 贡献
 
-本仓库只允许Liulab组内人员编辑与修改，其他人员可以提交issue进行报告，经过审核后报告人将加入致谢列表。
+本仓库只允许Liulab组内人员编辑与修改，其他人员可以提交issue进行报告，经过审核后报告人将加入Contributors。
+
+### 如何添加
+
+**使用Github issue**
+
+在Github issue中新建并按下列格式评论：
+
+```
+@all-contributors please add <username> for <contributions>
+```
+
+**使用命令**
+
+参考[文档](https://yarn.bootcss.com/docs/install/)安装yarn，然后添加：
+
+```
+# Add new contributor <username>, who made a contribution of type <contribution>
+yarn contributors:add add <username> <contribution>
+# Example:
+yarn contributors:add add jfmengels code,doc
+```
+
 
 ## 许可协议
 
