@@ -49,7 +49,7 @@ R:
 * [操作系统](OS/README.md) - 操作系统、相关操作知识与问题的解决
 * [工具与包](Tools/README.md) - **常用**提升工作效率的工具、计算分析软件包列表与知识
 * [Markdown与Notebook](Markdown/README.md) - 如何进行知识的记录与分享
-* [癌症研究](Cancer-research/README.md) - 癌症研究知识、软件汇总
+* [癌症研究](Cancer-research/README.md) - 癌症研究知识、分析流程汇总
 * [awesome列表](Awesome-list/README.md) - awesome以及其他的资源合集
 * [线上图书](Online-books/README.md) - 图书学习汇总与推荐
 * [填坑日记](Diary/README.md) - Liulab分析工作的填坑日常
