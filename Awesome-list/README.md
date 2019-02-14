@@ -2,8 +2,6 @@
 
 ***
 
-
-
 ## 生物信息学研究
 
 * [Bioinformatics-Resources](https://github.com/JhuangLab/Bioinformatics-Resources) - A curated list of resources for learning bioinformatics

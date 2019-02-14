@@ -45,8 +45,8 @@ R:
 
 ## Roadmap
 
-* [操作系统](OS/README.md) - 操作系统、相关操作知识与问题的解决
-* [工具与包](Tools/README.md) - **常用**提升工作效率的工具、计算分析软件包列表与知识
+* [操作系统](OS/README.md) - 操作系统知识与问题的方案
+* [工具包与数据库](Tools/README.md) - 科研与生信分析软件（工具包）、数据库
 * [Markdown与Notebook](Markdown/README.md) - 如何进行知识的记录与分享
 * [癌症研究](Cancer-research/README.md) - 癌症研究知识、分析流程汇总
 * [awesome列表](Awesome-list/README.md) - awesome以及其他的资源合集
@@ -56,7 +56,7 @@ R:
 
 ## 云资源
 
-- 生信入门资料 - 分享自生信技能树公众号，已转至百度云，链接: https://pan.baidu.com/s/1mhHd8aG 密码: vjxa
+- **生信入门资料集合** - 分享自生信技能树公众号，已转至百度云，链接: https://pan.baidu.com/s/1mhHd8aG 密码: vjxa
 - Github入门与实战（中文版） - 链接: https://pan.baidu.com/s/1nvgJWIP 密码: ne2w
 - RNA-seq Data Analysis-A Practical Approach - 链接: https://pan.baidu.com/s/1eSPD4hs 密码: y79f
 - Python for Data Analysis(2nd Edition, Early Release) - 链接: https://pan.baidu.com/s/1c1UleXq 密码: s692
@@ -65,7 +65,7 @@ R:
 - NIH的TCGA-topic大全 - 链接: https://pan.baidu.com/s/1i4CzYoH 密码: w9q4
 - TCGA大文章 - 链接: https://pan.baidu.com/s/1qXY6wI4 密码: de2q
 - sed与awk（修订第三版） - 链接: https://pan.baidu.com/s/1qYqPz5a 密码: 4ei4
-
+- **北大生科院基因组学数据分析课程** - 链接：https://share.weiyun.com/5UGqR2i
 
 ## 贡献
 
