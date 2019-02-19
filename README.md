@@ -84,6 +84,7 @@ R:
 - TCGA大文章 - 链接: https://pan.baidu.com/s/1qXY6wI4 密码: de2q
 - sed与awk（修订第三版） - 链接: https://pan.baidu.com/s/1qYqPz5a 密码: 4ei4
 - **北大生科院基因组学数据分析课程** - 链接：https://share.weiyun.com/5UGqR2i
+- **StatQuest生物统计学** - 链接:https://pan.baidu.com/s/1uOIfcsGdkTgddqzZ0-W6jQ  密码:rabg
 
 ## 贡献
 
