@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "/Users/wsx/Dropbox/interactive-python/manuscript"
+		},
+		{
+			"path": "/Users/wsx/Documents/GitHub/awesome-python3-webapp"
 		}
 	],
 	"settings": {}

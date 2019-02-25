@@ -22,10 +22,11 @@
    1. [入门建议](#入门建议)
    2. [Roadmap](#roadmap)
    3. [云资源](#云资源)
-   4. [贡献](#贡献)
+   4. [Github仓库](#github仓库)
+   5. [贡献](#贡献)
       1. [如何添加](#如何添加)
-   5. [许可协议](#许可协议)
-   6. [Contributors](#contributors)
+   6. [许可协议](#许可协议)
+   7. [Contributors](#contributors)
 
 </details>
 
@@ -86,6 +87,11 @@ R:
 - **北大生科院基因组学数据分析课程** - 链接：https://share.weiyun.com/5UGqR2i
 - **StatQuest生物统计学** - 链接:https://pan.baidu.com/s/1uOIfcsGdkTgddqzZ0-W6jQ  密码:rabg
 
+## Github仓库
+
+- [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
+
+
 ## 贡献
 
 本仓库只允许Liulab组内人员编辑与修改，其他人员可以提交issue进行报告，经过审核后报告人将加入Contributors。
@@ -114,7 +120,11 @@ yarn contributors:add add jfmengels code,doc
 
 ## 许可协议
 
-**知识共享-署名-非商业性-禁止演绎(CC-BY-NC-ND)**
+* 文档： **知识共享-署名-非商业性-禁止演绎(CC-BY-NC-ND)**
+* 代码： **Apache**
+
+**非Liulab成员的研究工作如果使用到该仓库的文档或代码，请在文章中引用Liulab最新发表文章或致谢，谢谢。**
+
 
 ## Contributors
 
