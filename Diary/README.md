@@ -1,17 +1,69 @@
 只列出与Liulab分析工作相关日常、其他不要涉及！
 
-1. [下载组学原始数据](#下载组学原始数据)
+1. [好用的脚本](#好用的脚本)
+   1. [解压](#解压)
+2. [下载组学原始数据](#下载组学原始数据)
    1. [TCGA GDC数据中心](#tcga-gdc数据中心)
    2. [ICGC](#icgc)
    3. [EGA](#ega)
-2. [组学数据预处理](#组学数据预处理)
+3. [组学数据预处理](#组学数据预处理)
    1. [为GDC组学数据构建软链接](#为gdc组学数据构建软链接)
    2. [为TCGA全基因组数据构建软链接](#为tcga全基因组数据构建软链接)
-3. [TCGA数据处理](#tcga数据处理)
+4. [TCGA数据处理](#tcga数据处理)
    1. [过滤重名Barcode](#过滤重名barcode)
    2. [利用Manifest文件转换TCGA ID](#利用manifest文件转换tcga-id)
 
 ***
+
+## 好用的脚本
+
+### 解压
+
+```
+#!/bin/bash
+# function Extract for common file formats
+# https://gist.github.com/ShixiangWang/475352083a6775c03df14271837dd2c8
+
+function extract {
+ if [ -z "$1" ]; then
+    # display usage if no parameters given
+    echo "Usage: extract <path/file_name>.<zip|rar|bz2|gz|tar|tbz2|tgz|Z|7z|xz|ex|tar.bz2|tar.gz|tar.xz>"
+ else
+    if [ -f "$1" ] ; then
+        NAME=${1%.*}
+        #mkdir $NAME && cd $NAME
+        case "$1" in
+          *.tar.bz2)   tar xvjf ./"$1"    ;;
+          *.tar.gz)    tar xvzf ./"$1"    ;;
+          *.tar.xz)    tar xvJf ./"$1"    ;;
+          *.lzma)      unlzma ./"$1"      ;;
+          *.bz2)       bunzip2 ./"$1"     ;;
+          *.rar)       unrar x -ad ./"$1" ;;
+          *.gz)        gunzip ./"$1"      ;;
+          *.tar)       tar xvf ./"$1"     ;;
+          *.tbz2)      tar xvjf ./"$1"    ;;
+          *.tgz)       tar xvzf ./"$1"    ;;
+          *.zip)       unzip ./"$1"       ;;
+          *.Z)         uncompress ./"$1"  ;;
+          *.7z)        7z x ./"$1"        ;;
+          *.xz)        unxz ./"$1"        ;;
+          *.exe)       cabextract ./"$1"  ;;
+          *)           echo "extract: '$1' - unknown archive method" ;;
+        esac
+    else
+        echo "'$1' - file does not exist"
+    fi
+fi
+}
+```
+
+把它放到系统配置文件中，如`~/.bashrc`、`~/.zshrc`等，加入内容
+
+```
+source ~/bin/extract
+```
+
+文件路径根据自己的设定更改。
 
 ## 下载组学原始数据
 
