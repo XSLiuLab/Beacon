@@ -5,11 +5,14 @@
 ## 生物信息学研究
 
 * [Bioinformatics-Resources](https://github.com/JhuangLab/Bioinformatics-Resources) - A curated list of resources for learning bioinformatics
-
 * [南医生信文档集](https://github.com/YuLab-SMU/docs) - Y叔课题组生信文档
 * 
 
+## 测序数据分析
 
+* [RNA-seq-analysis](https://github.com/XSLiuLab/RNA-seq-analysis) - RNAseq analysis notes from Ming Tang
+* [DNA-seq-analysis](https://github.com/XSLiuLab/DNA-seq-analysis) - DNAseq analysis notes from Ming Tang
+* [ChIP-seq-analysis](https://github.com/XSLiuLab/ChIP-seq-analysis) - ChIPseq analysis notes from Ming Tang
 
 ## awesome列表
 

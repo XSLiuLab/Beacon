@@ -61,6 +61,10 @@ R:
 * 《R实战》第二版
 * 《R语言编程艺术》
 
+最后推荐一些资源仓库：
+
+* [Unix, R and python tools for genomics and data science](https://github.com/XSLiuLab/getting-started-with-genomics-tools-and-resources)
+* [Bioinformatics one-liners](https://github.com/XSLiuLab/oneliners)
 
 ## Roadmap
 
