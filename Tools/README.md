@@ -13,7 +13,7 @@
 2. [数据分析与生信软件（包）](#数据分析与生信软件包)
    1. [基础工具](#基础工具)
    2. [数据下载](#数据下载)
-   3. [数据操作](#数据操作)
+   3. [数据分析](#数据分析)
    4. [绘图与交互](#绘图与交互)
    5. [Web App](#web-app)
 3. [数据库](#数据库)
@@ -108,9 +108,11 @@
 * [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks) - An R/Bioconductor package for integrative analysis with TCGA data.
 * [GEOquery](https://bioconductor.org/packages/release/bioc/vignettes/GEOquery/inst/doc/GEOquery.html) - Get data from NCBI Gene Expression Omnibus (GEO).
 
-### 数据操作
+### 数据分析
 
 * [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks) - An R/Bioconductor package for integrative analysis with TCGA data.
+* [Clusternomics](https://github.com/XSLiuLab/clusternomics) - Integrative clustering for heterogeneous biomedical datasets.
+
 
 ### 绘图与交互
 

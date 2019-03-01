@@ -5,7 +5,7 @@
 
 ***
 
-在正式做研究之前，读一读[理查德·汉明《你和你的研究》](http://www.ruanyifeng.com/blog/2016/04/you-and-your-research.html)。
+在正式做研究之前，读一读理查德·汉明[《你和你的研究》](http://www.ruanyifeng.com/blog/2016/04/you-and-your-research.html)。
 
 在提问之前，读一读[《提问的艺术》](https://www.oschina.net/question/124879_45870)。
 
@@ -23,6 +23,9 @@
    2. [Roadmap](#roadmap)
    3. [云资源](#云资源)
    4. [Github仓库](#github仓库)
+      1. [基础学习](#基础学习)
+      2. [数据分析](#数据分析)
+      3. [Pipeline](#pipeline)
    5. [贡献](#贡献)
       1. [如何添加](#如何添加)
    6. [许可协议](#许可协议)
@@ -53,7 +56,7 @@ Python:
 
 * [《利用Python进行数据分析》](https://www.jianshu.com/nb/19743417)
 * 《Bioinformatics with Python Cookbook》
-* 《Python for Bioinformatics》
+* [《Python for Bioinformatics》](https://github.com/XSLiuLab/Py4Bio)
 
 R:
 
@@ -93,8 +96,29 @@ R:
 
 ## Github仓库
 
-- [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
+### 基础学习
 
+- [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
+- [Unix, R and python tools for genomics and data science](https://github.com/XSLiuLab/getting-started-with-genomics-tools-and-resources)
+- [Row-oriented workflows in R with the tidyverse](https://github.com/XSLiuLab/row-oriented-workflows)
+- [Bioinformatics one-liners](https://github.com/XSLiuLab/oneliners)
+- [bioconda教程中文版](https://github.com/XSLiuLab/bioconda-tutorial) - https://github.com/XSLiuLab/bioconda-tutorial
+- [Data Analysis for the Life Sciences](https://github.com/XSLiuLab/labs) - I am reading. Online link <https://genomicsclass.github.io/book/>
+- ["Python for Data Analysis" by Wes McKinney, published by O'Reilly Media](https://github.com/XSLiuLab/pydata-book)
+- [Public data for the book Python for Bioinformatics](https://github.com/XSLiuLab/Py4Bio)
+- [The lecture slides for Coursera's Data Analysis class](https://github.com/XSLiuLab/dataanalysis)
+
+### 数据分析
+
+- [RNA-seq-analysis](https://github.com/XSLiuLab/RNA-seq-analysis) - RNAseq analysis notes from Ming Tang
+- [Informatics for RNA-seq: A web resource for analysis on the cloud](https://github.com/XSLiuLab/rnaseq_tutorial) 
+- [A repository for setting up a RNAseq workflow](https://github.com/XSLiuLab/RNAseq-workflow)
+- [DNA-seq-analysis](https://github.com/XSLiuLab/DNA-seq-analysis) - DNAseq analysis notes from Ming Tang
+- [ChIP-seq-analysis](https://github.com/XSLiuLab/ChIP-seq-analysis) - ChIPseq analysis notes from Ming Tang
+
+### Pipeline
+
+- [NGS Pipeline](https://github.com/XSLiuLab/NGS-pipeline)
 
 ## 贡献
 

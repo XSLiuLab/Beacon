@@ -6,7 +6,6 @@
 
 * [Bioinformatics-Resources](https://github.com/JhuangLab/Bioinformatics-Resources) - A curated list of resources for learning bioinformatics
 * [南医生信文档集](https://github.com/YuLab-SMU/docs) - Y叔课题组生信文档
-* 
 
 ## 测序数据分析
 
@@ -19,3 +18,5 @@
 * [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
 * [awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software. [https://awesome-r.com](https://awesome-r.com/)
 * [awesome-python](https://github.com/vinta/awesome-python#readme) - A curated list of awesome Python frameworks, libraries, software and resources <https://awesome-python.com/>
+* [Java utilities for Bioinformatics](https://github.com/XSLiuLab/jvarkit)
+* 
