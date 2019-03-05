@@ -107,6 +107,8 @@ R:
 - ["Python for Data Analysis" by Wes McKinney, published by O'Reilly Media](https://github.com/XSLiuLab/pydata-book)
 - [Public data for the book Python for Bioinformatics](https://github.com/XSLiuLab/Py4Bio)
 - [The lecture slides for Coursera's Data Analysis class](https://github.com/XSLiuLab/dataanalysis)
+- [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/XSLiuLab/statrethinking_winter2019) - Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
+
 
 ### 数据分析
 
