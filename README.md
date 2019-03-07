@@ -15,8 +15,7 @@
 
 ***
 
-<details>
-<summary>目录</summary>
+**目录**
 
 1. [Beacon (灯塔)](#beacon-灯塔)
    1. [入门建议](#入门建议)
@@ -31,7 +30,6 @@
    6. [许可协议](#许可协议)
    7. [Contributors](#contributors)
 
-</details>
 
 ***
 
