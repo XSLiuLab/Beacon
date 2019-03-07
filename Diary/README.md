@@ -1,23 +1,10 @@
-只列出与Liulab分析工作相关日常、其他不要涉及！
+<!-- 只列出与Liulab分析工作相关日常、其他不要涉及！-->
 
-<details>
-<summary>目录</summary>
 
-1. [好用的脚本](#好用的脚本)
-   1. [解压](#解压)
-      1. [extract](#extract)
-2. [下载组学原始数据](#下载组学原始数据)
-   1. [TCGA GDC数据中心](#tcga-gdc数据中心)
-   2. [ICGC](#icgc)
-   3. [EGA](#ega)
-3. [组学数据预处理](#组学数据预处理)
-   1. [为GDC组学数据构建软链接](#为gdc组学数据构建软链接)
-   2. [为TCGA全基因组数据构建软链接](#为tcga全基因组数据构建软链接)
-4. [TCGA数据处理](#tcga数据处理)
-   1. [过滤重名Barcode](#过滤重名barcode)
-   2. [利用Manifest文件转换TCGA ID](#利用manifest文件转换tcga-id)
+**目录**
 
-</details>
+* TOC
+{:toc}
 
 ***
 
