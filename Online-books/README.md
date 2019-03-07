@@ -4,6 +4,7 @@
 1. [R](#r)
 2. [Python](#python)
 3. [Linux](#linux)
+4. [统计学](#统计学)
 
 </details>
 
@@ -19,3 +20,7 @@
 
 ## Linux
 
+
+## 统计学
+
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) - by Susan Holmes, Wolfgang Huber

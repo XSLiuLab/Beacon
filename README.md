@@ -108,6 +108,7 @@ R:
 - [Public data for the book Python for Bioinformatics](https://github.com/XSLiuLab/Py4Bio)
 - [The lecture slides for Coursera's Data Analysis class](https://github.com/XSLiuLab/dataanalysis)
 - [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/XSLiuLab/statrethinking_winter2019) - Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/) - by Susan Holmes, Wolfgang Huber
 
 
 ### 数据分析
