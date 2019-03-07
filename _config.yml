@@ -1,3 +1,6 @@
 markdown: kramdown
 theme: jekyll-theme-hacker
 
+title: Beacon
+description: Learning, Collecting and Sharing
+show_downloads: true
