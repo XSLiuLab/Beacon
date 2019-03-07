@@ -68,17 +68,17 @@ R:
 
 ## 云资源
 
-- **生信入门资料集合** - 分享自生信技能树公众号，已转至百度云，链接: https://pan.baidu.com/s/1mhHd8aG 密码: vjxa
-- Github入门与实战（中文版） - 链接: https://pan.baidu.com/s/1nvgJWIP 密码: ne2w
-- RNA-seq Data Analysis-A Practical Approach - 链接: https://pan.baidu.com/s/1eSPD4hs 密码: y79f
-- Python for Data Analysis(2nd Edition, Early Release) - 链接: https://pan.baidu.com/s/1c1UleXq 密码: s692
-- 小张聊科研修炼手册 - 链接: https://pan.baidu.com/s/1jIiRXhO 密码: zu4n
-- MySQL视频（尚观云） - 链接: https://pan.baidu.com/s/1pLJV7b9 密码: e6fg
-- NIH的TCGA-topic大全 - 链接: https://pan.baidu.com/s/1i4CzYoH 密码: w9q4
-- TCGA大文章 - 链接: https://pan.baidu.com/s/1qXY6wI4 密码: de2q
-- sed与awk（修订第三版） - 链接: https://pan.baidu.com/s/1qYqPz5a 密码: 4ei4
-- **北大生科院基因组学数据分析课程** - 链接：https://share.weiyun.com/5UGqR2i
-- **StatQuest生物统计学** - 链接:https://pan.baidu.com/s/1uOIfcsGdkTgddqzZ0-W6jQ  密码:rabg
+- **生信入门资料集合** - 分享自生信技能树公众号，已转至百度云，链接: <https://pan.baidu.com/s/1mhHd8aG> 密码: vjxa
+- Github入门与实战（中文版） - 链接: <https://pan.baidu.com/s/1nvgJWIP> 密码: ne2w
+- RNA-seq Data Analysis-A Practical Approach - 链接: <https://pan.baidu.com/s/1eSPD4hs> 密码: y79f
+- Python for Data Analysis(2nd Edition, Early Release) - 链接: <https://pan.baidu.com/s/1c1UleXq> 密码: s692
+- 小张聊科研修炼手册 - 链接: <https://pan.baidu.com/s/1jIiRXhO> 密码: zu4n
+- MySQL视频（尚观云） - 链接: <https://pan.baidu.com/s/1pLJV7b9> 密码: e6fg
+- NIH的TCGA-topic大全 - 链接: <https://pan.baidu.com/s/1i4CzYoH> 密码: w9q4
+- TCGA大文章 - 链接: <https://pan.baidu.com/s/1qXY6wI4> 密码: de2q
+- sed与awk（修订第三版） - 链接: <https://pan.baidu.com/s/1qYqPz5a> 密码: 4ei4
+- **北大生科院基因组学数据分析课程** - 链接：<https://share.weiyun.com/5UGqR2i>
+- **StatQuest生物统计学** - 链接:<https://pan.baidu.com/s/1uOIfcsGdkTgddqzZ0-W6jQ>  密码:rabg
 
 ## Github仓库
 
