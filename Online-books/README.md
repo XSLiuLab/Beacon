@@ -1,13 +1,11 @@
-<details>
-<summary>目录</summary>
+**目录**
 
 1. [R](#r)
 2. [Python](#python)
 3. [Linux](#linux)
 4. [统计学](#统计学)
 
-</details>
-
+***
 
 ## R
 

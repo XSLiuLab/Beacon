@@ -1,4 +1,3 @@
-# Beacon (灯塔)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 **放宽眼界，摆低姿态。认真学习，踏实研究**。
@@ -15,20 +14,22 @@
 
 ***
 
+* TOC
+{:toc}
+
 **目录**
 
-1. [Beacon (灯塔)](#beacon-灯塔)
-   1. [入门建议](#入门建议)
-   2. [Roadmap](#roadmap)
-   3. [云资源](#云资源)
-   4. [Github仓库](#github仓库)
-      1. [基础学习](#基础学习)
-      2. [数据分析](#数据分析)
-      3. [Pipeline](#pipeline)
-   5. [贡献](#贡献)
-      1. [如何添加](#如何添加)
-   6. [许可协议](#许可协议)
-   7. [Contributors](#contributors)
+1. [入门建议](#入门建议)
+2. [Roadmap](#roadmap)
+3. [云资源](#云资源)
+4. [Github仓库](#github仓库)
+   1. [基础学习](#基础学习)
+   2. [数据分析](#数据分析)
+   3. [Pipeline](#pipeline)
+5. [贡献](#贡献)
+   1. [如何添加](#如何添加)
+6. [许可协议](#许可协议)
+7. [Contributors](#contributors)
 
 
 ***
