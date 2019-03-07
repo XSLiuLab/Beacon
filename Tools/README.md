@@ -14,6 +14,9 @@
    1. [基础工具](#基础工具)
    2. [数据下载](#数据下载)
    3. [数据分析](#数据分析)
+      1. [TCGA](#tcga)
+      2. [聚类](#聚类)
+      3. [异质性与克隆演化](#异质性与克隆演化)
    4. [绘图与交互](#绘图与交互)
    5. [Web App](#web-app)
 3. [数据库](#数据库)
@@ -23,6 +26,8 @@
    4. [测序项目](#测序项目)
    5. [项目与基金数据库](#项目与基金数据库)
    6. [其他数据库](#其他数据库)
+4. [课题组研发工具](#课题组研发工具)
+   1. [Li Ding's Lab](#li-dings-lab)
 
 </details>
 
@@ -110,9 +115,18 @@
 
 ### 数据分析
 
+#### TCGA
+
 * [TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks) - An R/Bioconductor package for integrative analysis with TCGA data.
+
+#### 聚类
+
 * [Clusternomics](https://github.com/XSLiuLab/clusternomics) - Integrative clustering for heterogeneous biomedical datasets.
 
+#### 异质性与克隆演化
+
+* [sciclone](https://github.com/genome/sciclone) - An R package for inferring the subclonal architecture of tumors
+* [pyclone](https://github.com/aroth85/pyclone) - Probabilistic model for inferring clonal population structure from deep NGS sequencing
 
 ### 绘图与交互
 
@@ -182,3 +196,26 @@
 * [TANRIC](https://ibl.mdanderson.org/tanric/_design/basic/index.html) - Enable Scientific Distcovery Through ncRNA
 
 
+## 课题组研发工具
+
+该部分汇总相关课题组及其研发和使用的工具。
+
+### Li Ding's Lab
+
+[Li Ding's Lab at the Washington University School of Medicine](https://github.com/ding-lab)
+
+- [msisensor](https://github.com/ding-lab/msisensor) - microsatellite instability detection using tumor only or paired tumor-normal data
+- [MuSiC2](https://github.com/ding-lab/MuSiC2) - identifying mutational significance in cancer genomes
+- [gatk4wxscnv](https://github.com/ding-lab/gatk4wxscnv) - Pipeline for WXS CNV using GATK4
+- [hotspot3d](https://github.com/ding-lab/hotspot3d) - 3D hotspot mutation proximity analysis tool. This 3D proximity tool can be used to identify mutation hotspots from linear protein sequence and correlate the hotspots with known or potentially interacting domains, mutations, or drugs. Mutation-mutation and mutation-drug clusters can also be identified and viewed.
+- [Pindel](https://github.com/genome/pindel) - Pindel can detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications and other structural variants at single-based resolution from next-gen sequence data. It uses a pattern growth approach to identify the breakpoints of these variants from paired-end short reads.
+- [pindel2](https://github.com/ding-lab/pindel2) - Detecting break points of large deletions and medium sized insertions from paired-end short read.
+- [queryGDC](https://github.com/ding-lab/queryGDC) - Command line client for Genomic Data Commons graphGL queries
+- [importGDC](https://github.com/ding-lab/importGDC) - Command line client for Genomic Data Commons data downloads
+- [gdc_qc_analysis](https://github.com/ding-lab/gdc_qc_analysis) - Somatic mutation pipeline comparison of TCGA samples between Genomic Data Commons (GDC) and MC3
+- [outlier](https://github.com/ding-lab/outlier) - Outlier analysis module to identify aberrantly highly expressed genes.
+- [VariantQC](https://github.com/ding-lab/VariantQC) -  Variant quality checking scripts for complex indel variant discovery and filtering from Pindel-C outputs. Referenced in Systematic discovery of complex insertions and deletions in human cancers (doi:10.1038/nm.4002).
+- [cmds](https://github.com/ding-lab/cmds) - Cohort DNA Copy Number Analysis. A population-based method for DNA copy number analysis: recurrent copy number aberration identification in multiple samples (with no need of single-sample calling). Developed for a quick analysis of high resolution and large population data.
+- [vcf2maf](https://github.com/mskcc/vcf2maf) - Convert a VCF into a MAF, where each variant is annotated to only one of all possible gene isoforms.
+- [parse-cosmic](https://github.com/ckandoth/parse-cosmic) - Script to carefully parse through and standardize somatic variant lists from COSMIC
+- 
