@@ -84,7 +84,7 @@ R:
 
 ### 基础学习
 
-- [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
+- [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)
 - [Unix, R and python tools for genomics and data science](https://github.com/XSLiuLab/getting-started-with-genomics-tools-and-resources)
 - [Row-oriented workflows in R with the tidyverse](https://github.com/XSLiuLab/row-oriented-workflows)
 - [Bioinformatics one-liners](https://github.com/XSLiuLab/oneliners)
