@@ -10,6 +10,7 @@
 
 ## 生物信息学研究
 
+* [生物信息培训免费资料-易生信](http://www.ehbio.com/Training/index.php/Home/Index/Articles.html) - [生信宝典文章集锦](http://blog.genesino.com/)
 * [Bioinformatics-Resources](https://github.com/JhuangLab/Bioinformatics-Resources) - A curated list of resources for learning bioinformatics
 * [南医生信文档集](https://github.com/YuLab-SMU/docs) - Y叔课题组生信文档
 
