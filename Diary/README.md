@@ -31,6 +31,10 @@
 初始密码为123，在终端中键入`passwd`即可修改密码。
 
 
+## 实验室网站
+
+仓库地址在：<https://github.com/XSLiuLab/XSLiuLab.github.io>，部署和维护请阅读README。
+
 ## 好用的脚本
 
 ### 解压
